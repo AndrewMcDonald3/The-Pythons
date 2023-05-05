@@ -54,4 +54,4 @@ The members of our team deserve a special thanks for all of their hard work.
 We are The Pythons!
 
 
-user and pass are defualt credentials
+user and pass are default credentials
